@@ -12,9 +12,6 @@ A simple dice roller built using **HTML, CSS, and JavaScript**.
 - CSS
 - JavaScript
 
-## Live Demo
-https://username.github.io/dice-roller/
-
 ## Author
 Zahid Hussain
 
